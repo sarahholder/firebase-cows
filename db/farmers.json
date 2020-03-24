@@ -1,0 +1,18 @@
+  
+{
+	"farmer1" : {
+		"name": "sarah",
+		"age": 1000,
+		"uid": "HWgGTjcMocgeugjM94r3F1GKXv23"
+	},
+	"farmer2" : {
+		"name": "luke",
+		"age": 83,
+		"uid": "12345"
+	},
+	"farmer3" : {
+		"name": "mary",
+		"age": 12,
+		"uid": "67890"
+	}
+}
